@@ -1,0 +1,15 @@
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.sourcelink.json
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\acwr2\desktop\repos\Classes-Exercise\Classes\obj\Debug\net6.0\ref\Classes.dll
